@@ -1,5 +1,5 @@
 # Sogeti-Rest-API-basic
-Basic rest api endpoint for Sogeti tech team review
+Basic rest api endpoint for Sogeti tech team review. 2hr timeboxed
 
 
 I have this tested in postman
